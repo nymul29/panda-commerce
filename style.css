@@ -36,3 +36,20 @@
     border-radius: 7px;
    
 }
+.card{
+    border: none;
+    box-shadow: 10px 10px 20px lightgray;
+    border-radius: 10px;
+}
+.card-footer{
+  border: none;
+}
+.subscribe{
+    background-color: lightpink;
+    height: 300px;
+    border-radius: 10px;
+    text-align: center;
+}
+footer{
+   text-align: center;
+}
